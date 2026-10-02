@@ -1,0 +1,15 @@
+{
+	"name": "monitoradf88e",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0b47e020-36c5-4c3b-8466-208be5fa093e",
+		"tenantId": "c9515ae6-7419-4ae5-a700-4bb5f4afa7dc"
+	}
+}
